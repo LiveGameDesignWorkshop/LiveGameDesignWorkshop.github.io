@@ -13,13 +13,8 @@ td, th, table {
 <img src="/assets/logo_pencils.png" style="width: 250px;">
 </div>
 
-**The Live Game Design Workshop** brings together
-practotioners, educators, and researchers 
-around the topic of tools for game design and development.
-
-**Our goal** is to explore how better game design tools can
-empower creators, speed up prototyping, educate students,
-and make game creation more engaging, intuitive and live.
+**The Live Game Design Workshop** 
+Educating novices in the art of game design is a key challenge in computer science education. To develop their skills, novices need feedback to understand the impact of changes to digital game prototypes. However, game design tools lack intuitive mechanisms for visualizing how changes affect dynamics and gameplay. As a result, forming mental models about cause-and-effect relationships is hard, and learning how to program can be tedious and frustrating. The Live Game Design workshop brings together researchers, practitioners, and educators who develop and apply game design tools. Together, we explore how better tools can empower creators, accelerate prototyping, support education, and make game creation more engaging, intuitive, and live.
 
 # Activities
 The workshop will host three types of activities.
