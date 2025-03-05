@@ -13,23 +13,30 @@ td, th, table {
 <img src="/assets/logo_pencils.png" style="width: 250px;">
 </div>
 
-**The Live Game Design Workshop**
 {% comment %} 
 Educating novices in the art of game design is a key challenge in computer science education. To develop their skills, novices need feedback to understand the impact of changes to digital game prototypes. However, game design tools lack intuitive mechanisms for visualizing how changes affect dynamics and gameplay. As a result, forming mental models about cause-and-effect relationships is hard, and learning how to program can be tedious and frustrating. The Live Game Design workshop 
 {% endcomment %}
-brings together researchers, practitioners, and educators who develop and apply game design tools. Together, we explore how better tools can empower creators, accelerate prototyping, support education, and make game creation more engaging, intuitive, and live.
+**The Live Game Design workshop** brings together researchers, practitioners, and educators who develop and apply game design tools. Together, we explore how better tools can empower creators, accelerate prototyping, support education, and make design more engaging, intuitive, and live.
+
+# Venue
+The Live Game Design workshop is co-located with the International Conference on the Foundations of Digital Games (FDG 2025), organized in Vienna and Graz. [http://fdg2025.org](http://fdg2025.org)
+* **Date:** April 15th 2025
 
 # Activities
 The workshop will host three types of activities.
 
-1. **Industry & Research Talks.**
-Hear from experts in game design, development, game AI, and procedural generation.
+1. **Keynote.**
+Our keynote speaker is Joris Dormans, the founder of Ludomotion.
+Joris will provide an industry perspective on tools for game design and development.
+*More details to follow.*
 {% comment %} 
+Hear from experts in game design, development, game AI, and procedural generation.
     including *speakers to be announced*
 {% endcomment %}
 
 2. **Live Demo.**
-Learn to use Vie, a powerful tool for rapid game prototyping
+Lean to use Vie,
+a powerful tool for rapid game prototyping
 that provides real-time feedback on game mechanics. 
 Create your own prototype and playtest it live!
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
@@ -37,28 +44,18 @@ Create your own prototype and playtest it live!
 3. **Panel Discussion.**
 Explore challenges in game design, programming education, and future tools, with insights from industry leaders and academics.
 
-{% comment %} 
-# Who Should Join?
+# Schedule
+The following schedule is a preliminary draft and may be subject to change.
 
-* **Game designers & developers** – Discover rapid prototyping techniques.
-* **Educators & researchers** – Explore new ways to teach programming and game design.
-* **Students & hobbyists** – Lean about the theor and practice of automated game design.
-
-# Why Attend?
-
-* Experience game design in a new way – See the instant impact of your code changes.
-* Engage with industry experts – Learn from top professionals and researchers.
-* Shape the future of game design – Join discussions on emerging trends and innovations.
-{% endcomment %}
-
-# Schedule.
-To be announced.
-
-{% comment %} 
-Keynote title.
-Photo. Joris Dormans. Bio. Talk summary.
-{% endcomment %}
+| **Time**  | **Topic**                     | **Speaker/Host**  |
+|:----------|:------------------------------|:-------------|
+|           | Welcome                       | Riemer, Dasha, and Anders |
+|           | Industry Keynote              | Joris Dormans (Ludomotion)           |
+|           | Coffee Break                  |                                      |
+|           | Vie - Live Demo and Practical | Riemer, Dasha, and Anders | 
+|           | Panel Discussion              | to be announced|
 
 # Organizers
 * Riemer van Rozen (Centrum Wiskunde & Informatica)
 * Daria (Dasha) Protsenko (Universtiy of Amsterdam)
+* Anders Bouwer (Amsterdam University of Applied Sciences)
