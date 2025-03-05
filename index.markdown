@@ -49,10 +49,10 @@ The following schedule is a preliminary draft and may be subject to change.
 
 | **Time**  | **Topic**                     | **Speaker/Host**  |
 |:----------|:------------------------------|:-------------|
-|           | Welcome                       | Riemer, Dasha, and Anders |
-|           | Industry Keynote              | Joris Dormans (Ludomotion)           |
-|           | Coffee Break                  |                                      |
-|           | Vie - Live Demo and Practical | Riemer, Dasha, and Anders | 
+|           | Welcome                       | Riemer, Dasha, and Anders  |
+|           | Industry Keynote              | Joris Dormans (Ludomotion) |
+|           | Coffee Break                  |                            |
+|           | Vie - Live Demo and Practical | Riemer, Dasha, and Anders  | 
 |           | Panel Discussion              | to be announced|
 
 # Organizers
