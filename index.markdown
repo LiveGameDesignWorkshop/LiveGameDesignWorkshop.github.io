@@ -10,7 +10,7 @@ td, th, table {
 **FDG2025** | **1st Workshop on Live Game Design, April 15 2025** | **Vienna & Graz, Austria**
 
 <div style="text-align: center; padding-bottom:20px;">
-<img src="/assets/logo_colors.png" style="width: 250px;">
+<img src="/assets/logo_colors.webp" style="width: 250px;">
 </div>
 
 {% comment %} 
