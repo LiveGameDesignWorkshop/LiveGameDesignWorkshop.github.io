@@ -18,6 +18,11 @@ Educating novices in the art of game design is a key challenge in computer scien
 {% endcomment %}
 **The Live Game Design workshop** brings together researchers, practitioners, and educators who develop and apply game design tools. Together, we explore how better tools can empower creators, accelerate prototyping, support education, and make design more engaging, intuitive, and live.
 
+Topics include:
+* Applying game design and development tools in practice.
+* Teaching game design and digital prototyping to students and novices.
+* Creating live, AI-assisted, and visual programming tools for game design.
+
 # Venue
 The Live Game Design workshop is co-located with the International Conference on the Foundations of Digital Games (FDG 2025), organized in Vienna and Graz. [http://fdg2025.org](http://fdg2025.org)
 * **Date:** April 15th 2025
@@ -29,20 +34,16 @@ The workshop will host three types of activities.
 Our keynote speaker is Joris Dormans, the founder of Ludomotion.
 Joris will provide an industry perspective on tools for game design and development.
 *More details to follow.*
-{% comment %} 
-Hear from experts in game design, development, game AI, and procedural generation.
-    including *speakers to be announced*
-{% endcomment %}
 
 2. **Live Demo.**
-Lean to use Vie,
-a powerful tool for rapid game prototyping
+Learn to use Vie, a powerful tool for rapid game prototyping
 that provides real-time feedback on game mechanics. 
 Create your own prototype and playtest it live!
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
 
 3. **Panel Discussion.**
-Explore challenges in game design, programming education, and future tools, with insights from industry leaders and academics.
+Explore challenges in game design, programming education, and future tools, 
+with insights from industry leaders and academics.
 
 # Schedule
 The following schedule is a preliminary draft and may be subject to change.
