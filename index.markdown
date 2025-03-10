@@ -35,10 +35,10 @@ Our keynote speaker is Joris Dormans, the founder of Ludomotion.
 Joris will provide an industry perspective on tools for game design and development.
 *More details to follow.*
 
-2. **Live Demo.**
+2. **Mini Game Jam.**
 Learn to use Vie, a powerful tool for rapid game prototyping
-that provides real-time feedback on game mechanics. 
-Create your own prototype and playtest it live!
+that provides real-time feedback on game mechanics.
+Receive a demo, create your own prototype and playtest it live!
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
 
 3. **Panel Discussion.**
@@ -53,7 +53,7 @@ The following schedule is a preliminary draft and may be subject to change.
 |           | Welcome                       | Riemer, Dasha, and Anders  |
 |           | Industry Keynote              | Joris Dormans (Ludomotion) |
 |           | Coffee Break                  |                            |
-|           | Vie - Live Demo and Practical | Riemer, Dasha, and Anders  | 
+|           | Mini Game Jam with Vie         | Riemer, Dasha, and Anders  | 
 |           | Panel Discussion              | to be announced|
 
 # Organizers
