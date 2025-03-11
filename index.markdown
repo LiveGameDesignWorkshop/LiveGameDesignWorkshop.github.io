@@ -44,16 +44,16 @@ Receive a short demo, create your own prototype, and playtest it live!
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
 
 <div style="width: 100%; text-align: center; font-weight: bold; display: flex;">
-  <div style="width: 30%; float: left;">
-    <img src="/assets/Fig12_Mechanics.jpg">
-  </div>
-  <div style="width: 30%; float: left;">
-    <img src="/assets/Fig13_UI_Design.jpg">
-  </div>
-  <div style="width: 30%; float: left;">
+  <div style="width: 30%; float: left; text-align: center;">
     <a href="https://vrozen.github.io/Vie">
        <img src="/assets/Vie.jpg" style="width: 100px;">
     </a>
+  </div>
+  <div style="width: 30%; float: left; padding: 10px;">
+    <img src="/assets/Fig12_Mechanics.jpg">
+  </div>
+  <div style="width: 30%; float: left; padding: 10px;">
+    <img src="/assets/Fig13_UI_Design.jpg">
   </div>
 </div>
 
