@@ -33,7 +33,7 @@ The workshop will host three types of activities.
 
 **Generative Progress.** Since I decided to favor indie game development over a predominantly academic career almost 10 years ago, I have had the opportunity to put all those fancy content generation techniques into practice. Looking back at those years of development I am surprised how little I changed to the core techniques. At the same time, I have become much more bold in the way I am using the techniques. Over the years I have found that, when leveraged in the right way, the value of content generation is in its affordance for radically different game designs.
 
-## 2. **Mini Game Jam.**
+## 2. **Mini Game Jam**
 In a mini game jam on Live Game Design for novices, you will learn to use Vie.
 Vie is a powerful tool for rapid game prototyping
 that provides real-time feedback on game mechanics.
@@ -57,11 +57,9 @@ Receive a short demo, create your own prototype and playtest it live!
   </a>
 </div>
 
-## 3. **Panel Discussion.**
+## 3. **Panel Discussion**
 Explore challenges in game design, programming education, and future tools, 
-with insights from industry leaders and academics.
-
-The discussion will cover:
+with insights from industry leaders and academics. The discussion will cover:
 * Applying game design and development tools in practice.
 * Teaching game design and digital prototyping to students and novices.
 * Creating live, AI-assisted, and visual programming tools for game design.
