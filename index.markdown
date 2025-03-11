@@ -38,9 +38,8 @@ The workshop will host three types of activities.
     <img src="/assets/Vie.jpg" style="width: 100px;"> 
   </a>
 </div>
-In a mini game jam on Live Game Design for novices, 
-you will experiment with Vie.
-Vie is a powerful tool for rapid game prototyping
+In a mini game jam on Live Game Design suitable for novices, you will experiment with Vie.
+Vie is a powerful tool for rapid 2D game prototyping
 that provides real-time feedback on game mechanics.
 Receive a short demo, create your own prototype, and playtest it live!
 
