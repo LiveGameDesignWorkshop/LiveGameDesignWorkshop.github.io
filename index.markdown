@@ -45,10 +45,14 @@ Join this beginner-friendly mini game jam on Live Game Design. Experiment with V
 
 <div style="width: 100%; text-align: center; font-weight: bold; display: flex;">
   <div style="width: 50%; float: left; padding: 10px;">
-    <img src="/assets/Fig12_Mechanics.jpg">
+    <a href="https://vrozen.github.io/Vie">
+      <img src="/assets/Fig12_Mechanics.jpg">
+    </a>
   </div>
   <div style="width: 50%; float: left; padding: 10px;">
-    <img src="/assets/Fig13_UI_Design.jpg">
+    <a href="https://vrozen.github.io/Vie">
+      <img src="/assets/Fig13_UI_Design.jpg">
+    </a>
   </div>
 </div>
 
