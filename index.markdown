@@ -40,7 +40,7 @@ Vie is a powerful tool for rapid game prototyping
 that provides real-time feedback on game mechanics.
 Receive a short demo, create your own prototype, and playtest it live!
 
-<div style="float: left; text-align: center;">
+<div style="float: right; text-align: center; padding: 10px;">
   <a href="https://vrozen.github.io/Vie">
     <img src="/assets/Vie.jpg" style="width: 100px;"> 
   </a>
