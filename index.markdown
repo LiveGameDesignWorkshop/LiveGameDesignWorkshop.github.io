@@ -56,8 +56,8 @@ The following schedule is a preliminary draft and may be subject to change.
 
 | **Time**       | **Topic**                                      | **Speaker/Host** |
 |:---------------|:-----------------------------------------------|:-----------------|
-| 10:30 -- 10:05 | Industry Keynote on Generative Progress        | Joris Dormans    |
-| 10:05 -- 10:30 | Mini Game Jam on Live Game Design              | Riemer and Dasha |
+| 10:30 -- 11:05 | Industry Keynote on Generative Progress        | Joris Dormans    |
+| 11:05 -- 11:30 | Mini Game Jam on Live Game Design              | Riemer and Dasha |
 | 10:30 -- 12:00 | Panel Discussion *Panelists to be announced*.  | Anders           |
 
 # Organizers
