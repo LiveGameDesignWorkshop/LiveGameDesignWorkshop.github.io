@@ -13,14 +13,8 @@ td, th, table {
 <img src="/assets/logo_colors.webp" style="width: 300px;">
 </div>
 
-**Live Game Design** has the potential to provide powerful, accessible, and standardized solutions for authoring, prototyping, and playtesting games for everyone. However, currently, tools still lack intuitive user interfaces and real-time feedback mechanisms for rapid design iterations. Designers of all experience levels need immediate feedback on design changes and suggestions (feed-forward) on how changes to rules and content affect dynamics and gameplay. 
-
-**The Live Game Design workshop** brings together researchers, designers, and educators who develop, apply, and teach these tools. Together, we will explore how better tools can empower creators, accelerate prototyping, support education, and make game design more engaging, intuitive, and alive. The workshop will feature an industry keynote, a hands-on mini game jam suitable for beginners, and an interactive panel discussion.
-
-Topics include:
-* Applying game design and development tools in practice.
-* Teaching game design and digital prototyping to students and novices.
-* Creating live, AI-assisted, and visual programming tools for game design.
+**Live Game Design** has the potential to provide powerful, accessible, and standardized solutions for authoring, prototyping, and playtesting games for everyone. However, currently, tools still lack intuitive user interfaces and real-time feedback mechanisms for rapid design iterations. Designers of all experience levels need immediate feedback and suggestions (feed-forward) on how changes to rules and content affect dynamics and gameplay.
+**The Live Game Design workshop** brings together researchers, designers, and educators who develop, apply, and teach these tools. Together, we will explore how better tools can empower creators, accelerate prototyping, support education, and make game design more engaging, intuitive, and alive. The workshop will feature an industry keynote by Joris Dormans, a hands-on mini game jam suitable for beginners, and an interactive panel discussion.
 
 # Venue
 The Live Game Design workshop is co-located with the International Conference on the Foundations of Digital Games (FDG 2025), organized in Vienna and Graz. [http://fdg2025.org](http://fdg2025.org)
@@ -32,7 +26,7 @@ The workshop will host three types of activities.
 ## 1. **Keynote by Joris Dormans**
 
 <div style="text-align: center; padding-bottom:20px;">
-<img src="/assets/Joris_Dormans.jpg" style="width: 250px;">
+  <img src="/assets/Joris_Dormans.jpg" style="width: 250px;">
 </div>
 
 **Bio.** Joris Dormans is the founder of indie game company Ludomotion that is renowned for its state-of-the-art content generation in its roguelike-ish titles Unexplored 1 and 2. One day a week he stays in touch with his academic roots as an assistant professor involved with the Game Studies minor at the humanities department of Leiden University. 
@@ -44,12 +38,33 @@ In a mini game jam on Live Game Design for novices, you will learn to use Vie.
 Vie is a powerful tool for rapid game prototyping
 that provides real-time feedback on game mechanics.
 Receive a short demo, create your own prototype and playtest it live!
+
+<div style="float: right; width: 50%; text-align: center; font-weight: bold;  padding: 10px;">
+  <figure class="video_container">
+    <video controls="true" allowfullscreen="true" width="100%">
+      <source src="/assets/Vie_demo_EN_subtitles.mp4">
+    </video>
+  </figure>
+  <div>Vie: Tutorial</div>
+</div>
+
 **Preparation:** Please bring your own laptop, and download Vie here:
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
+
+<div style="text-align: center; padding-bottom:20px;">
+  <a href="https://vrozen.github.io/Vie">
+    <img src="/assets/Vie.jpg" style="width: 250px;">
+  </a>
+</div>
 
 ## 3. **Panel Discussion.**
 Explore challenges in game design, programming education, and future tools, 
 with insights from industry leaders and academics.
+
+The discussion will cover:
+* Applying game design and development tools in practice.
+* Teaching game design and digital prototyping to students and novices.
+* Creating live, AI-assisted, and visual programming tools for game design.
 
 # Schedule
 The following schedule is a preliminary draft and may be subject to change.
@@ -58,14 +73,12 @@ The following schedule is a preliminary draft and may be subject to change.
 |:---------------|:-----------------------------------------------|:-----------------|
 | 10:30 -- 11:05 | Industry Keynote on Generative Progress        | Joris Dormans    |
 | 11:05 -- 11:30 | Mini Game Jam on Live Game Design              | Riemer and Dasha |
-| 10:30 -- 12:00 | Panel Discussion *Panelists to be announced*.  | Anders           |
+| 10:30 -- 12:00 | Panel Discussion. *Panelists to be announced*. | Anders           |
 
 # Organizers
 * Riemer van Rozen (Centrum Wiskunde & Informatica)
 * Daria (Dasha) Protsenko (Universtiy of Amsterdam)
 * Anders Bouwer (Amsterdam University of Applied Sciences)
-
-
 
 {% comment %} 
 | **Time**      | **Topic**                     | **Speaker/Host**           |
