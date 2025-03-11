@@ -13,10 +13,9 @@ td, th, table {
 <img src="/assets/logo_colors.webp" style="width: 300px;">
 </div>
 
-{% comment %} 
-Educating novices in the art of game design is a key challenge in computer science education. To develop their skills, novices need feedback to understand the impact of changes to digital game prototypes. However, game design tools lack intuitive mechanisms for visualizing how changes affect dynamics and gameplay. As a result, forming mental models about cause-and-effect relationships is hard, and learning how to program can be tedious and frustrating. The Live Game Design workshop 
-{% endcomment %}
-**The Live Game Design workshop** brings together researchers, practitioners, and educators who develop and apply game design tools. Together, we explore how better tools can empower creators, accelerate prototyping, support education, and make design more engaging, intuitive, and live.
+Game design tools have the potential to provide powerful, accessible, and standardized solutions for authoring, prototyping, and playtesting games for everyone. However, current tools still lack intuitive user interfaces and real-time feedback mechanisms for rapid design iterations. Live Game Design promises to address this with immediate feedback on design changes and suggestions (feed-forward) on how changes to rules and content affect dynamics and gameplay. 
+
+**The Live Game Design workshop** brings together researchers, designers, and educators who develop, apply, and teach these tools. Together, we will explore how better tools can empower creators, accelerate prototyping, support education, and make game design more engaging, intuitive, and alive. The workshop will feature an industry keynote (details below), a hands-on mini game jam for beginners, and an interactive panel discussion.
 
 Topics include:
 * Applying game design and development tools in practice.
@@ -31,9 +30,9 @@ The Live Game Design workshop is co-located with the International Conference on
 The workshop will host three types of activities.
 
 ## 1. **Keynote**
-**Joris Dormans**
 <div style="text-align: center; padding-bottom:20px;">
-<img src="/assets/Joris_Dormans.jpg" style="width: 300px;">
+**Joris Dormans**
+<img src="/assets/Joris_Dormans.jpg" style="width: 200px;">
 </div>
 
 **Bio.** Joris Dormans isthe founder of indie game companyLudomotion that is renowned for its state-of-the-art content generation in its roguelike-ish titles Unexplored 1 and 2. One day a week he stays in touch with his academic roots as an assistant professor involved with the Game Studies minor at the humanities department of Leiden University. 
@@ -62,6 +61,13 @@ The following schedule is a preliminary draft and may be subject to change.
 | 10:05 -- 10:30 | Mini Game Jam on Live Game Design              | Riemer and Dasha |
 | 10:30 -- 12:00 | Panel Discussion *Panelists to be announced*.  | Anders           |
 
+# Organizers
+* Riemer van Rozen (Centrum Wiskunde & Informatica)
+* Daria (Dasha) Protsenko (Universtiy of Amsterdam)
+* Anders Bouwer (Amsterdam University of Applied Sciences)
+
+
+
 {% comment %} 
 | **Time**      | **Topic**                     | **Speaker/Host**           |
 |:--------------|:------------------------------|:---------------------------|
@@ -72,7 +78,9 @@ The following schedule is a preliminary draft and may be subject to change.
 | 13:00 - 13:30 | Panel Discussion              | to be announced            |
 {% endcomment %}
 
-# Organizers
-* Riemer van Rozen (Centrum Wiskunde & Informatica)
-* Daria (Dasha) Protsenko (Universtiy of Amsterdam)
-* Anders Bouwer (Amsterdam University of Applied Sciences)
+
+
+{% comment %} 
+Educating novices in the art of game design is a key challenge in computer science education. To develop their skills, novices need feedback to understand the impact of changes to digital game prototypes. However, game design tools lack intuitive mechanisms for visualizing how changes affect dynamics and gameplay. As a result, forming mental models about cause-and-effect relationships is hard, and learning how to program can be tedious and frustrating. The Live Game Design workshop 
+**The Live Game Design workshop** brings together researchers, practitioners, and educators who develop and apply game design tools. Together, we explore how better tools can empower creators, accelerate prototyping, support education, and make design more engaging, intuitive, and live.
+{% endcomment %}
