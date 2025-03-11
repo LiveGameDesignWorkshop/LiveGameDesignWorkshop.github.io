@@ -8,11 +8,6 @@ td, th, table {
 }
 </style>
 **FDG2025** | **1st Workshop on Live Game Design, April 15 2025** | **Vienna & Graz, Austria**
-<div style="float: right; text-align: center;">
-  <a href="https://vrozen.github.io/Vie">
-     <img src="/assets/Vie.jpg" style="width: 100px;">
-  </a>
-</div>
 <div style="text-align: center; padding-bottom:20px;">
 <img src="/assets/logo_colors.webp" style="width: 300px;">
 </div>
@@ -49,11 +44,16 @@ Receive a short demo, create your own prototype, and playtest it live!
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
 
 <div style="width: 100%; text-align: center; font-weight: bold;">
-  <div style="width: 30%;">
+  <div style="width: 30%; float: left;">
     <img src="/assets/Fig12_Mechanics.jpg">
   </div>
-  <div style="width: 30%;">
+  <div style="width: 30%; float: left;">
     <img src="/assets/Fig13_UI_Design.jpg">
+  </div>
+  <div style="width: 30%; float: left;">
+    <a href="https://vrozen.github.io/Vie">
+       <img src="/assets/Vie.jpg" style="width: 100px;">
+    </a>
   </div>
 </div>
 
