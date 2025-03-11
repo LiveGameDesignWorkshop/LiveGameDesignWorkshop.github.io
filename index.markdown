@@ -38,10 +38,7 @@ The workshop will host three types of activities.
     <img src="/assets/Vie.jpg" style="width: 100px;"> 
   </a>
 </div>
-In a mini game jam on Live Game Design suitable for novices, you will experiment with Vie.
-Vie is a powerful tool for rapid 2D game prototyping
-that provides real-time feedback on game mechanics.
-Receive a short demo, create your own prototype, and playtest it live!
+Join this novice-friendly mini game jam on Live Game Design. Experiment with Vie—a powerful tool for rapid 2D game prototyping that provides real-time feedback on game mechanics. After a brief demo, you can design and playtest your own prototype live.
 
 **Preparation:** Please bring your own laptop, and download Vie here:
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
