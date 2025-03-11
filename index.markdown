@@ -15,7 +15,7 @@ td, th, table {
 
 **Live Game Design** has the potential to provide powerful, accessible, and standardized solutions for authoring, prototyping, and playtesting games for everyone. However, currently, tools still lack intuitive user interfaces and real-time feedback mechanisms for rapid design iterations. Designers of all experience levels need immediate feedback on design changes and suggestions (feed-forward) on how changes to rules and content affect dynamics and gameplay. 
 
-**The Live Game Design workshop** brings together researchers, designers, and educators who develop, apply, and teach these tools. Together, we will explore how better tools can empower creators, accelerate prototyping, support education, and make game design more engaging, intuitive, and alive. The workshop will feature an industry keynote, a hands-on mini game jam for beginners, and an interactive panel discussion.
+**The Live Game Design workshop** brings together researchers, designers, and educators who develop, apply, and teach these tools. Together, we will explore how better tools can empower creators, accelerate prototyping, support education, and make game design more engaging, intuitive, and alive. The workshop will feature an industry keynote, a hands-on mini game jam suitable for beginners, and an interactive panel discussion.
 
 Topics include:
 * Applying game design and development tools in practice.
@@ -35,7 +35,7 @@ The workshop will host three types of activities.
 <img src="/assets/Joris_Dormans.jpg" style="width: 250px;">
 </div>
 
-**Bio.** Joris Dormans is the founder of indie game compan yLudomotion that is renowned for its state-of-the-art content generation in its roguelike-ish titles Unexplored 1 and 2. One day a week he stays in touch with his academic roots as an assistant professor involved with the Game Studies minor at the humanities department of Leiden University. 
+**Bio.** Joris Dormans is the founder of indie game company Ludomotion that is renowned for its state-of-the-art content generation in its roguelike-ish titles Unexplored 1 and 2. One day a week he stays in touch with his academic roots as an assistant professor involved with the Game Studies minor at the humanities department of Leiden University. 
 
 **Generative Progress.** Since I decided to favor indie game development over a predominantly academic career almost 10 years ago, I have had the opportunity to put all those fancy content generation techniques into practice. Looking back at those years of development I am surprised how little I changed to the core techniques. At the same time, I have become much more bold in the way I am using the techniques. Over the years I have found that, when leveraged in the right way, the value of content generation is in its affordance for radically different game designs.
 
