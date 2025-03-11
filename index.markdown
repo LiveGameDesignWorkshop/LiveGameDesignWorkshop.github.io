@@ -34,7 +34,7 @@ The workshop will host three types of activities.
 **Generative Progress.** Since I decided to favor indie game development over a predominantly academic career almost 10 years ago, I have had the opportunity to put all those fancy content generation techniques into practice. Looking back at those years of development I am surprised how little I changed to the core techniques. At the same time, I have become much more bold in the way I am using the techniques. Over the years I have found that, when leveraged in the right way, the value of content generation is in its affordance for radically different game designs.
 
 ## 2. **Mini Game Jam**
-<div style="float: right; text-align: center; padding: 10px;">
+<div style="float: right; text-align: center; padding: 20px;">
   <a href="https://vrozen.github.io/Vie">
     <img src="/assets/Vie.jpg" style="width: 100px;"> 
   </a>
