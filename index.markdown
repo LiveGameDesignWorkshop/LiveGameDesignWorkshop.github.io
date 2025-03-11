@@ -30,31 +30,47 @@ The Live Game Design workshop is co-located with the International Conference on
 # Activities
 The workshop will host three types of activities.
 
-1. **Keynote.**
-Our keynote speaker is Joris Dormans, the founder of Ludomotion.
-Joris will provide an industry perspective on tools for game design and development.
-*More details to follow.*
+## 1. **Keynote**
+**Joris Dormans**
+<div style="text-align: center; padding-bottom:20px;">
+<img src="/assets/Joris_Dormans.jpg" style="width: 300px;">
+</div>
 
-2. **Mini Game Jam.**
-Learn to use Vie, a powerful tool for rapid game prototyping
+**Bio.** Joris Dormans isthe founder of indie game companyLudomotion that is renowned for its state-of-the-art content generation in its roguelike-ish titles Unexplored 1 and 2. One day a week he stays in touch with his academic roots as an assistant professor involved with the Game Studies minor at the humanities department of Leiden University. 
+
+**Generative Progress.** Since I decided to favor indie game development over a predominantly academic career almost 10 years ago, I have had the opportunity to put all those fancy content generation techniques into practice. Looking back at those years of development I am surprised how little I changed to the core techniques. At the same time, I have become much more bold in the way I am using the techniques. Over the years I have found that, when leveraged in the right way, the value of content generation is in its affordance for radically different game designs.   
+
+## 2. **Mini Game Jam.**
+In a mini game jam on Live Game Design for novices, 
+you will learn to use Vie.
+Vie is a powerful tool for rapid game prototyping
 that provides real-time feedback on game mechanics.
-Receive a demo, create your own prototype and playtest it live!
+Receive a short demo, create your own prototype and playtest it live!
+**Preparation:** Please bring your own laptop, and download Vie here:
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
 
-3. **Panel Discussion.**
+## 3. **Panel Discussion.**
 Explore challenges in game design, programming education, and future tools, 
 with insights from industry leaders and academics.
 
 # Schedule
 The following schedule is a preliminary draft and may be subject to change.
 
-| **Time**  | **Topic**                     | **Speaker/Host**  |
-|:----------|:------------------------------|:-------------|
-|           | Welcome                       | Riemer, Dasha, and Anders  |
-|           | Industry Keynote              | Joris Dormans (Ludomotion) |
-|           | Coffee Break                  |                            |
-|           | Mini Game Jam with Vie         | Riemer, Dasha, and Anders  | 
-|           | Panel Discussion              | to be announced|
+| **Time**       | **Topic**                                      | **Speaker/Host** |
+|:---------------|:-----------------------------------------------|:-----------------|
+| 10:30 -- 10:05 | Industry Keynote on Generative Progress        | Joris Dormans    |
+| 10:05 -- 10:30 | Mini Game Jam on Live Game Design              | Riemer and Dasha |
+| 10:30 -- 12:00 | Panel Discussion *Panelists to be announced*.  | Anders           |
+
+{% comment %} 
+| **Time**      | **Topic**                     | **Speaker/Host**           |
+|:--------------|:------------------------------|:---------------------------|
+| 10:30 - 10:40 | Welcome                       | Riemer, Dasha, and Anders  |
+| 10:40 - 11:20 | Industry Keynote              | Joris Dormans (Ludomotion) |
+| 11:20 - 12:00 | Mini Game Jam with Vie        | Riemer, Dasha, and Anders  |
+| 12:00 - 13:00 | Lunch Break                   |                            |
+| 13:00 - 13:30 | Panel Discussion              | to be announced            |
+{% endcomment %}
 
 # Organizers
 * Riemer van Rozen (Centrum Wiskunde & Informatica)
