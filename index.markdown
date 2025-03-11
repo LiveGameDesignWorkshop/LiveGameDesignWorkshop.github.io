@@ -24,7 +24,7 @@ The Live Game Design workshop is co-located with the International Conference on
 The workshop will host three types of activities.
 
 ## 1. **Keynote by Joris Dormans**
-<div style="float: left; text-align: center; padding: 2px;">
+<div style="float: left; text-align: center; padding: 10px;">
   <img src="/assets/Joris_Dormans.jpg" style="width: 40%;">
 </div>
 
