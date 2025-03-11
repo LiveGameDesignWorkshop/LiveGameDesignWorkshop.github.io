@@ -25,7 +25,7 @@ The workshop will host three types of activities.
 
 ## 1. **Keynote by Joris Dormans**
 <div style="float: left; text-align: center; padding: 10px; width: 40%;">
-  <img src="/assets/Joris_Dormans.jpg" style="width: 100%;">
+  <img src="/assets/Joris_Dormans.jpg" style="width: 90%;">
 </div>
 
 **Bio.** Joris Dormans is the founder of indie game company Ludomotion that is renowned for its state-of-the-art content generation in its roguelike-ish titles Unexplored 1 and 2. One day a week he stays in touch with his academic roots as an assistant professor involved with the Game Studies minor at the humanities department of Leiden University. 
