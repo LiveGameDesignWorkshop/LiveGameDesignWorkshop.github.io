@@ -13,7 +13,7 @@ td, th, table {
 <img src="/assets/logo_colors.webp" style="width: 300px;">
 </div>
 
-Game design tools have the potential to provide powerful, accessible, and standardized solutions for authoring, prototyping, and playtesting games for everyone. However, current tools still lack intuitive user interfaces and real-time feedback mechanisms for rapid design iterations. Live Game Design promises to address this with immediate feedback on design changes and suggestions (feed-forward) on how changes to rules and content affect dynamics and gameplay. 
+**Abstract.** Game design tools have the potential to provide powerful, accessible, and standardized solutions for authoring, prototyping, and playtesting games for everyone. However, current tools still lack intuitive user interfaces and real-time feedback mechanisms for rapid design iterations. Live Game Design promises to address this with immediate feedback on design changes and suggestions (feed-forward) on how changes to rules and content affect dynamics and gameplay. 
 
 **The Live Game Design workshop** brings together researchers, designers, and educators who develop, apply, and teach these tools. Together, we will explore how better tools can empower creators, accelerate prototyping, support education, and make game design more engaging, intuitive, and alive. The workshop will feature an industry keynote (details below), a hands-on mini game jam for beginners, and an interactive panel discussion.
 
