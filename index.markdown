@@ -48,10 +48,10 @@ Receive a short demo, create your own prototype, and playtest it live!
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
 
 <div style="width: 100%; text-align: center; font-weight: bold; display: flex;">
-  <div style="width: 50%; float: left; padding: 20px;">
+  <div style="width: 50%; float: left; padding: 10px;">
     <img src="/assets/Fig12_Mechanics.jpg">
   </div>
-  <div style="width: 50%; float: left; padding: 20px;">
+  <div style="width: 50%; float: left; padding: 10px;">
     <img src="/assets/Fig13_UI_Design.jpg">
   </div>
 </div>
