@@ -44,7 +44,7 @@ Receive a short demo, create your own prototype, and playtest it live!
 **Preparation:** Please bring your own laptop, and download Vie here:
 [https://vrozen.github.io/Vie](https://vrozen.github.io/Vie)
 
-<div style="width: 1000%; text-align: center; font-weight: bold; padding: 10px;">
+<div style="width: 100%; text-align: center; font-weight: bold; padding: 10px;">
   <div style="float: left; width: 30%;">
     <img src="/assets/Fig12_Mechanics.jpg">
   </div>
