@@ -86,7 +86,7 @@ The following schedule is a preliminary draft and may be subject to change.
 |:---------------|:-----------------------------------------------|:-----------------|
 | 10:30 -- 11:05 | Industry Keynote on Generative Progress        | Joris Dormans    |
 | 11:05 -- 11:30 | Mini Game Jam on Live Game Design              | Riemer and Dasha |
-| 10:30 -- 12:00 | Panel Discussion.                              | Anders           |
+| 11:30 -- 12:00 | Panel Discussion.                              | Anders           |
 
 # Organizers
 * Riemer van Rozen (Centrum Wiskunde & Informatica)
