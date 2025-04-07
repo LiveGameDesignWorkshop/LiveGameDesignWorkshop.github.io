@@ -89,6 +89,19 @@ The following schedule is a preliminary draft and may be subject to change.
 | 11:30 -- 12:00 | Panel Discussion.                              | Anders           |
 
 # Organizers
-* Riemer van Rozen (Centrum Wiskunde & Informatica)
-* Daria (Dasha) Protsenko (Universtiy of Amsterdam)
-* Anders Bouwer (Amsterdam University of Applied Sciences)
+<div style="float: right; text-align: center; padding-left: 20px;">
+  <img src="/assets/Riemer.png" style="width: 68px; rotate:-4deg;"> 
+</div>
+* **Riemer van Rozen** is a postdoc in the Software Analysis & Transformation group at Centrum Wiskunde & Informatica. His applied research improves software, accelerates its design and simplifies its maintenance. His research interests include Programming Languages, Procedural Content Generation, and Automated/Live Game Design. 
+[https://vrozen.github.io](https://vrozen.github.io)
+
+<div style="float: right; text-align: center; padding-left: 20px;">
+  <img src="/assets/Dasha.png" style="width: 68px; rotate: 4deg;"> 
+</div>
+* **Daria (Dasha) Protsenko** is a Master's alumna from the University of Amsterdam. She's conducting research on how visual Domain-Specific Languages and generator-agnostic tools can bridge the gap between level design sketches and level generator implementations.
+
+<div style="float: right; text-align: center; padding-left: 20px;">
+  <img src="/assets/Anders.jpg" style="width: 68px; rotate: 4deg;"> 
+</div>
+* **Anders Bouwer** is a rearcher in the Smart Education group and a Lecturer of Informatics at the Amsterdam University of Applied Sciences. His research interests include artificial intelligence, intelligent user interfaces, interactive learning environments, music computing, procedural content generation and live game design. 
+[https://andersbouwer.wordpress.com](https://andersbouwer.wordpress.com)
