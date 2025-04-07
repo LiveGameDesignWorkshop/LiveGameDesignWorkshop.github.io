@@ -68,9 +68,9 @@ and the future of game development tools,
 with insights from industry leaders and academics.
 
 **Panelists:**
-1. Joris Dormans
-2. Johanna Pirker
-3. To be announced
+1. Joris Dormans (Ludomotion and Leiden University)
+2. Johanna Pirker (TU Graz)
+3. Rafael Bidarra (TU Delft)
 
 **Moderator:** Anders Bouwer
 
