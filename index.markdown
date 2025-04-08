@@ -80,19 +80,19 @@ with insights from industry leaders and academics.
 * Creating live, AI-assisted, and visual programming tools for game design.
 
 # Schedule
-The following schedule is a preliminary draft and may be subject to change.
+The workshop keeps a tight schedule.
 
 | **Time**       | **Topic**                                      | **Speaker/Host** |
 |:---------------|:-----------------------------------------------|:-----------------|
 | 10:30 -- 11:05 | Industry Keynote on Generative Progress        | Joris Dormans    |
 | 11:05 -- 11:30 | Mini Game Jam on Live Game Design              | Riemer and Dasha |
-| 11:30 -- 12:00 | Panel Discussion.                              | Anders           |
+| 11:30 -- 12:00 | Panel Discussion                               | Anders           |
 
 # Organizers
 <div style="float: right; text-align: center; padding-left: 20px;">
   <img src="/assets/Riemer.png" style="width: 68px; rotate:-4deg;"> 
 </div>
-* **Riemer van Rozen** is a postdoc in the Software Analysis & Transformation group at Centrum Wiskunde & Informatica. His applied research improves software, accelerates its design and simplifies its maintenance. His research interests include Programming Languages, Procedural Content Generation, and Automated/Live Game Design. 
+* **Riemer van Rozen** is a postdoc in the Software Analysis & Transformation group at Centrum Wiskunde & Informatica. In applied research, he develops languages and tools that improve software quality, accelerate design processes, and simplify maintenance. His research interests include programming languages, procedural content generation, and live game design.
 [https://vrozen.github.io](https://vrozen.github.io)
 
 <div style="float: right; text-align: center; padding-left: 20px;">
