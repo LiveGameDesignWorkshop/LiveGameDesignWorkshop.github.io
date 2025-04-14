@@ -69,7 +69,7 @@ with insights from industry leaders and academics.
 
 **Panelists:**
 1. Joris Dormans (Ludomotion and Leiden University)
-2. Johanna Pirker (TU Graz)
+2. Fares Kayali (University of Vienna)
 3. Rafael Bidarra (TU Delft)
 
 **Moderator:** Anders Bouwer
@@ -92,7 +92,7 @@ The workshop keeps a tight schedule.
 <div style="float: right; text-align: center; padding-left: 20px;">
   <img src="/assets/Riemer.png" style="width: 68px; rotate:-4deg;"> 
 </div>
-* **Riemer van Rozen** is a postdoc in the Software Analysis & Transformation group at Centrum Wiskunde & Informatica. In applied research, he develops languages and tools that improve software quality, accelerate design processes, and simplify maintenance. His research interests include programming languages, procedural content generation, and live game design.
+* **Riemer van Rozen** is a postdoc in the Software Analysis & Transformation group at Centrum Wiskunde & Informatica. He conducts applied research, developing languages and tools that improve software quality, speed up design, and support maintenance. His research interests include programming languages, procedural content generation, and live game design.
 [https://vrozen.github.io](https://vrozen.github.io)
 
 <div style="float: right; text-align: center; padding-left: 20px;">
